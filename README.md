@@ -1,7 +1,7 @@
 ## Swapi.dev People Json Data with Flutter App
 ------------------------------------
 [![Codemagic build status](https://api.codemagic.io/apps/5eacd24a76654ba589cebb3d/5eacd24a76654ba589cebb3c/status_badge.svg)](https://codemagic.io/apps/5eacd24a76654ba589cebb3d/5eacd24a76654ba589cebb3c/latest_build)
-### Starter Application Series
+### Starter Application Series-3
 
 Successful data was captured with HTTP.
 
